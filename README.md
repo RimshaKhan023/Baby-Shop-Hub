@@ -1,2 +1,16 @@
-# Baby-Shop-Hub
-"BabyShop Hub" is a comprehensive e-commerce mobile application designed to provide a seamless shopping experience for parents. The app focuses on high-quality baby products, categorized intuitively for easy navigation. It features a modern, user-friendly interface with a robust backend powered by Firebase for real-time data management.
+# babyshop_hub
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -1,0 +1,37 @@
+name: babyshop_hub
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  cloudinary_public: ^0.21.0
+  
+  # Firebase Core aur Auth (Stable & Compatible Versions)
+  firebase_core: ^3.10.1
+  firebase_auth: ^5.5.0
+  cloud_firestore: ^5.6.1
+  firebase_storage: ^12.4.1  # Image upload ke liye zaroori hai
+  
+  # UI aur Gallery Tools
+  google_nav_bar: ^5.0.7
+  image_picker: ^1.1.2  # Mobile gallery se photo pick karne ke liye
+  
+  # Date/Time Formatting
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
